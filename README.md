@@ -6,5 +6,5 @@ Some discription here !!
 
 Some text here : 
 
-I'm Testing git ! --> Gitting
+I'm Testing git !--> Gitting
 
