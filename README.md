@@ -1,6 +1,6 @@
 # Demo For Git
 
-Some discription here !!
+Some discription here !
 
 ## Subheader
 
